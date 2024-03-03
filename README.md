@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 - <b> Quizizz Analytics Case Study
-  - [Praciting SQL Query on PostGres & Visualization in Power BI](https://github.com/osi51)
+  - [Praciting SQL Query on PostGres & Visualization in Power BI](README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
