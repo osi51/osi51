@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 - <b> Quizizz Analytics Case Study
-  - [Praciting SQL Query on PostGres & Visualization in Power BI](README.md)
-
+  - <a href="https://github.com/osi51/Quizizz-Analytics-Case-Study">Practicing SQL Query on Postgres & Visualization in Power BI</a>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
