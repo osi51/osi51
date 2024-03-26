@@ -1,4 +1,4 @@
-<h1>Hi, I'm Osama Mahmood! <br/><a href="https://github.com/osi51">Aspiring Data Analyst</a>, <br/><a href="https://www.linkedin.com/in/osama51/"> Senior Product Analyst@Photon</a>
+<h1>Hi, I'm Osama Mahmood! <br/><a href="https://github.com/osi51">Aspiring Product Manager</a>, <br/><a href="https://www.linkedin.com/in/osama51/"> Senior Product Analyst@Photon</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 - <b> Quizizz Analytics Case Study
