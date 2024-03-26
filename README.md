@@ -8,8 +8,7 @@
     This repository contains a case study on Quizizz Analytics, where SQL queries are practiced on Postgres and visualization is done in Power BI.
 
 - **HackerRank problem solutions**
-
-- [Practicing SQL Query on HackerRank (Difficult and Advanced questions)](https://github.com/osi51/HackerRank-SQL-Solution)
+  - [Practicing SQL Query on HackerRank (Difficult and Advanced questions)](https://github.com/osi51/HackerRank-SQL-Solution)
     This repository contains solutions to HackerRank SQL problems, focusing on difficult and advanced questions.
 
 ## 🤳 Connect with me:
