@@ -3,11 +3,13 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 - <b> Quizizz Analytics Case Study
   - <a href="https://github.com/osi51/Quizizz-Analytics-Case-Study">Practicing SQL Query on Postgres & Visualization in Power BI</a>
-- <b> HackerRank problem solutions
-  - [Practicing SQL Query on HackerRank(Difficult and Advance questions)](https://github.com/osi51/HackerRank-SQL-Solution
-)
-
 This repository contains a case study on Quizizz Analytics, where SQL queries are practised on Postgres and visualization is done in Power BI.
+
+# HackerRank problem solutions
+
+- [Practicing SQL Query on HackerRank (Difficult and Advanced questions)](https://github.com/osi51/HackerRank-SQL-Solution)
+
+This repository contains solutions to HackerRank SQL problems, focusing on difficult and advanced questions.
 
   
 <h2> 🤳 Connect with me:</h2>
